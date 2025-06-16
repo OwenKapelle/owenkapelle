@@ -1,0 +1,8 @@
+---
+title: "VISIT TO THE CEITEC, BRNO"
+author: "Owen Kapelle"
+date: "2025-06-16"
+output: html_document
+---
+
+![](images/IMG20250515125350.jpg){width="250"}
